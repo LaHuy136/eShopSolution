@@ -7,6 +7,10 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactapp", "eShopSolution.W
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webapi", "eShopSolution.WebApp\webapi\webapi.csproj", "{B51DA253-F0B1-426D-B2FA-0316DE6BD613}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopSolution.Data", "eShopSolution.Data\eShopSolution.Data.csproj", "{FC532917-1FE7-449F-B8A2-873AAC95C8F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopSolution.Application", "eShopSolution.Application\eShopSolution.Application.csproj", "{CE1D9150-5F2B-4F1B-8DE2-8EFF0C962B3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,14 @@ Global
 		{B51DA253-F0B1-426D-B2FA-0316DE6BD613}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B51DA253-F0B1-426D-B2FA-0316DE6BD613}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B51DA253-F0B1-426D-B2FA-0316DE6BD613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC532917-1FE7-449F-B8A2-873AAC95C8F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC532917-1FE7-449F-B8A2-873AAC95C8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC532917-1FE7-449F-B8A2-873AAC95C8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC532917-1FE7-449F-B8A2-873AAC95C8F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1D9150-5F2B-4F1B-8DE2-8EFF0C962B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1D9150-5F2B-4F1B-8DE2-8EFF0C962B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1D9150-5F2B-4F1B-8DE2-8EFF0C962B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1D9150-5F2B-4F1B-8DE2-8EFF0C962B3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
