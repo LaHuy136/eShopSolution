@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "eShopSolutionDb": "Server =MINE\\MY_SQLEXPRESS;Database=eShopSolution;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=true;"
+  }
+}
